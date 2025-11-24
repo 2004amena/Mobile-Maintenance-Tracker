@@ -1,0 +1,125 @@
+.track-container {
+          width: 100%;
+          min-height: 100vh;
+          background: #f5f7fa;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          padding: 50px 20px;
+        }
+
+        .track-header {
+          text-align: center;
+          margin-bottom: 30px;
+        }
+
+        .track-header h1 {
+          font-size: 38px;
+          color: #20272c;
+          font-weight: 700;
+        }
+
+        .track-header p {
+          font-size: 18px;
+          color: #555;
+          margin-top: 8px;
+        }
+
+        .track-box {
+          width: 100%;
+          max-width: 600px;
+          background: white;
+          padding: 30px;
+          border-radius: 14px;
+          box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+          display: flex;
+          flex-direction: column;
+          gap: 15px;
+        }
+
+        .track-box label {
+          font-size: 18px;
+          color: #333;
+          font-weight: 600;
+        }
+
+        .track-input {
+          width: 100%;
+          padding: 14px;
+          border-radius: 10px;
+          border: 1.5px solid #ccc;
+          outline: none;
+          font-size: 16px;
+          transition: 0.3s;
+        }
+
+        .track-input:focus {
+          border-color: #4fa3ff;
+          box-shadow: 0 0 5px rgba(79,163,255,0.4);
+        }
+
+        .track-btn {
+          width: 100%;
+          padding: 14px;
+          background: #4fa3ff;
+          color: white;
+          font-size: 18px;
+          font-weight: 600;
+          border: none;
+          border-radius: 10px;
+          cursor: pointer;
+          transition: 0.3s;
+        }
+
+        .track-btn:hover {
+          background: #1e8aff;
+        }
+
+        .status-card {
+          width: 100%;
+          max-width: 650px;
+          background: white;
+          padding: 25px;
+          border-radius: 14px;
+          margin-top: 35px;
+          box-shadow: 0 4px 12px rgba(0,0,0,0.07);
+          transition: 0.3s;
+        }
+
+        .status-title {
+          font-size: 22px;
+          font-weight: 700;
+          margin-bottom: 15px;
+          color: #20272c;
+        }
+
+        .status-row {
+          display: flex;
+          justify-content: space-between;
+          padding: 12px 0;
+          border-bottom: 1px solid #eee;
+        }
+
+        .status-row span {
+          font-size: 16px;
+          color: #444;
+        }
+
+        .status-progress {
+          margin-top: 25px;
+        }
+
+        .progress-bar {
+          width: 100%;
+          height: 10px;
+          background: #e5e5e5;
+          border-radius: 10px;
+          overflow: hidden;
+        }
+
+        .progress-fill {
+          height: 100%;
+          width: 60%;
+          background: #4fa3ff;
+          transition: 0.5s;
+        }
