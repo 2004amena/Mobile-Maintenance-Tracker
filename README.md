@@ -1,70 +1,125 @@
-# Getting Started with Create React App
+# Mobile Guardian  
+*Your Phone's Best Protector*
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mobile Guardian is a mobile repair platform that offers fast, convenient, and reliable services. Customers can submit repair requests, track their device status, and get support — all in one place.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Homepage Preview
 
-### `npm start`
+![Homepage Screenshot](<insert homepage image link here>)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> "Fast, convenient, and reliable mobile repair tracking."
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Who We Are  
+Mobile Guardian is a team of expert technicians dedicated to bringing your mobile devices back to life. With years of experience and a passion for technology, we ensure your phone is in safe hands.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Our Services
 
-### `npm run build`
+![Services Screenshot](<insert services image link here>)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+We offer a wide range of repair services:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- *Screen Repair*  
+  Cracked or shattered screen? We’ll fix it fast.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- *Battery Replacement*  
+  Phone not holding charge? Get a new battery.
 
-### `npm run eject`
+- *Water Damage Repair*  
+  Dropped your phone in water? We can help.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- *Data Recovery*  
+  Lost important data? We’ll recover it for you.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## How It Works
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![How It Works Screenshot](<insert how-it-works image link here>)
 
-## Learn More
+1. *Submit Your Request*  
+   Fill out our online form with your phone’s issue.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. *Send Us Your Device*  
+   Ship your device or drop it off at our location.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3. *Track Your Repair*  
+   Use our tracking system to monitor progress.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+##  Submit a Repair Request
 
-### Analyzing the Bundle Size
+![Submit Request Screenshot](<insert submit-request image link here>)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Form Fields:
+- Full Name  
+- Phone Number  
+- Email Address (optional)  
+- Device Type  
+- Issue Description  
+- Attach a Photo (optional)
 
-### Making a Progressive Web App
+Click *Submit Request* to get started.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## Contact Us
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Contact Page Screenshot](<insert contact-page image link here>)
 
-### Deployment
+### Contact Form:
+- Your Name  
+- Your Email  
+- Your Phone Number  
+- Your Message
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### About Us:
+- We fix all types of smartphones with high precision  
+- Skilled technicians with years of experience  
+- Fast repair — most issues solved in less than 45 minutes  
+- Transparent pricing, no hidden fees  
+-  Location: Aramoun, Lebanon
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📦 Track Your Device
+
+![Track Page Screenshot](<insert track-page image link here>)
+
+Enter your repair request number to check the latest status.
+
+Example: RO-10483
+
+Click *Track Now* to view your device status.
+
+---
+
+##  Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+- Responsive Design  
+- Form Handling
+
+---
+
+## Live Demo
+
+[Visit the Live Site](<insert deployment link here>)
+
+---
+
+##  License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🙌 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
