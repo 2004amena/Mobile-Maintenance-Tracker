@@ -38,7 +38,7 @@ We offer a wide range of repair services:
 
 ## How It Works
 
-![How It Works Screenshot](<insert how-it-works image link here>)
+![How It Works Screenshot](<https://github.com/2004amena/Mobile-Maintenance-Tracker/blob/main/Screenshot%202025-11-26%20180501.png?raw=true>)
 
 1. *Submit Your Request*  
    Fill out our online form with your phone’s issue.
