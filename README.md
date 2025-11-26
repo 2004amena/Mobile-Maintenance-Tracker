@@ -18,7 +18,7 @@ Mobile Guardian is a team of expert technicians dedicated to bringing your mobil
 
 ## Our Services
 
-![Services Screenshot](<insert services image link here>)
+![Services Screenshot](<https://github.com/2004amena/Mobile-Maintenance-Tracker/blob/main/Screenshot%202025-11-26%20180336.png?raw=true>)
 
 We offer a wide range of repair services:
 
