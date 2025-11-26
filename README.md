@@ -53,7 +53,7 @@ We offer a wide range of repair services:
 
 ##  Submit a Repair Request
 
-![Submit Request Screenshot](<insert submit-request image link here>)
+![Submit Request Screenshot](<https://github.com/2004amena/Mobile-Maintenance-Tracker/blob/main/localhost_3000_%20(1).png?raw=true>)
 
 ### Form Fields:
 - Full Name  
