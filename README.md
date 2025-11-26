@@ -7,7 +7,7 @@ Mobile Guardian is a mobile repair platform that offers fast, convenient, and re
 
 ## Homepage Preview
 
-![Homepage Screenshot](<insert homepage image link here>)
+![Homepage Screenshot](<https://github.com/2004amena/Mobile-Maintenance-Tracker/blob/main/localhost_3000_.png?raw=true>)
 
 > "Fast, convenient, and reliable mobile repair tracking."
 
